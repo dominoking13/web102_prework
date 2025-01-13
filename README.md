@@ -24,7 +24,14 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-Code - README.md — web102_prework - 13 January 2025 - Watch Video
+<div>
+    <a href="https://www.loom.com/share/864e26c8a7d14356bda80b8da04d51a0">
+      <p>Code - README.md — web102_prework - 13 January 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/864e26c8a7d14356bda80b8da04d51a0">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/864e26c8a7d14356bda80b8da04d51a0-a59dfd520177ed61-full-play.gif">
+    </a>
+  </div>
  
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
