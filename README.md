@@ -24,7 +24,8 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<div style="position: relative; padding-bottom: 64.90384615384616%; height: 0;"><iframe src="https://www.loom.com/embed/864e26c8a7d14356bda80b8da04d51a0?sid=cd988ce7-3a03-407b-b58a-9973e5f9c937" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+Code - README.md — web102_prework - 13 January 2025 - Watch Video
+ 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
