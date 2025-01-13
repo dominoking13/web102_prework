@@ -22,8 +22,10 @@ body {
 .stats-container :hover {
     display: flex;
     align-items: center;
+    justify-content: center;
     /* box-shadow: 0 0 10px #FFFFFF; */
     cursor: pointer;
+    border-radius: 10px;
     box-shadow: 0 0 30px lightblue;
 }
 
