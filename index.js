@@ -84,7 +84,8 @@ raisedCard.innerHTML = `$${totalAmountRaised.toLocaleString()}`;
 
 // grab number of games card and set its inner HTML
 const gamesCard = document.getElementById("num-games");
-
+const totalGames = GAMES_JSON.length;
+gamesCard.innerHTML = `${totalGames}`;
 
 /*************************************************************************************
  * Challenge 5: Add functions to filter the funded and unfunded games
@@ -110,10 +111,10 @@ function filterFundedOnly() {
     deleteChildElements(gamesContainer);
 
     // use filter() to get a list of games that have met or exceeded their goal
-    const unfundedGames = GAMES_JSON.filter(game => game.pledged < game.goal);
+    const fundedGames = GAMES_JSON.filter(game => game.pledged >= game.goal);
 
     // use the function we previously created to add unfunded games to the DOM
-    addGamesToPage(unfundedGames);
+    addGamesToPage(fundedGames);
 }
 
 // show all games
